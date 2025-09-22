@@ -1388,7 +1388,7 @@ details.spoiler,
 }
 .spoiler-header {
 	background-color:#3f3f3f !important;
-	color:#FFF;
+	color:#FFF !important;
 }
 .spoiler-status {
 	background-color:#d9534f !important;
