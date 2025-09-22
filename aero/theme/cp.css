@@ -132,8 +132,8 @@ ul.cplist {
 .tabs {
 	margin: 0;
 	background: #DEEAF8 url("./images/cptabsbg.gif") repeat-x;
-	border-top: 1px solid #D6E6F9;
-	border-bottom: 1px solid #A7BAC5;
+	border-top: 1px solid #2d2d2d;
+	border-bottom: 1px solid #191919;
 }
 
 .tabs .tab > a {
