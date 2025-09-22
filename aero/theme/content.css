@@ -752,13 +752,13 @@ fieldset.polls dd div {
 .postprofile .avatar {
 	display: block;
 	float: left;
-	max-width: 100%;
+	max-width: 90px;
 }
 
 .postprofile .avatar img {
 	display: block;
 	height: auto !important;
-	max-width: 100%;
+	max-width: 90px;
 }
 
 .postprofile .profile-posts a {

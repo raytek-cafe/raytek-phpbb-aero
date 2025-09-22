@@ -47,14 +47,14 @@ hr {
 }
 
 a {
-	color: #428bca;
+	color: #afafaf;
 	text-decoration: none;
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: #2a6496;
+	color: #afafaf;
 	text-decoration: underline;
 }
 

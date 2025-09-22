@@ -233,7 +233,7 @@ a:hover	{ text-decoration: underline; }
 }
 
 .customborder {
-	border: 1px solid #566877;
+	border: 1px solid #535353;
 }
 
 .panel {
@@ -245,7 +245,7 @@ a:hover	{ text-decoration: underline; }
 	background-repeat: no-repeat;
 	background-position: 100% 0;
 	position: relative;
-	border-bottom: 1px solid #CCE3F3;
+	border-bottom: 1px solid #535353;
 }
 
 .rowbg {
