@@ -1,0 +1,33 @@
+body {
+	background-color: #CCF3D9;
+	background-image: url("./images/green/bg_green.gif");
+	background-repeat: repeat-x;
+}
+
+.headerbar {
+	background-image: url("./images/green/header_green.png");
+}
+
+.rtl .headerbar {
+	background-image: url("./images/green/header_green_rtl.png");
+}
+
+.headerbg {
+	background-color: #003803;
+	background-image: url("./images/green/headerbg_green.gif");
+}
+
+.action-bar .coloredbutton {
+	border-color: #004605;
+	background-color: #95CB99; /* Old browsers */ /* FF3.6+ */
+	background-image: -webkit-linear-gradient(top, #95CB99 0%, #004005 100%);
+	background-image: linear-gradient(to bottom, #95CB99 0%,#004005 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#95CB99', endColorstr='#004005',GradientType=0 ); /* IE6-9 */
+}
+
+.action-bar .coloredbutton:hover {
+	background-color: #004005; /* Old browsers */ /* FF3.6+ */
+	background-image: -webkit-linear-gradient(top, #004005 0%, #95CB99 100%);
+	background-image: linear-gradient(to bottom, #004005 0%,#95CB99 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004005', endColorstr='#95CB99',GradientType=0 ); /* IE6-9 */
+}

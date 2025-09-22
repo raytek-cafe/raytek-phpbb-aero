@@ -1,0 +1,33 @@
+body {
+	background-color: #CCE3F3;
+	background-image: url("./images/blue/bg_blue.gif");
+	background-repeat: repeat-x;
+}
+
+.headerbar {
+	background-image: url("./images/blue/header_blue.png");
+}
+
+.rtl .headerbar {
+	background-image: url("./images/blue/header_blue_rtl.png");
+}
+
+.headerbg {
+	background-color: #032942;
+	background-image: url("./images/blue/headerbg_blue.gif");
+}
+
+.action-bar .coloredbutton {
+	border-color: #002A46;
+	background-color: #95B5CB; /* Old browsers */ /* FF3.6+ */
+	background-image: -webkit-linear-gradient(top, #95B5CB 0%, #00263F 100%);
+	background-image: linear-gradient(to bottom, #95B5CB 0%,#00263F 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#95B5CB', endColorstr='#00263F',GradientType=0 ); /* IE6-9 */
+}
+
+.action-bar .coloredbutton:hover {
+	background-color: #00263F; /* Old browsers */ /* FF3.6+ */
+	background-image: -webkit-linear-gradient(top, #00263F 0%, #95B5CB 100%);
+	background-image: linear-gradient(to bottom, #00263F 0%,#95B5CB 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00263F', endColorstr='#95B5CB',GradientType=0 ); /* IE6-9 */
+}
