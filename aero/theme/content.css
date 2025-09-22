@@ -427,6 +427,10 @@ p.author {
 	width: 100%;
 }
 
+.signature img {
+	max-height: 30px;
+}
+
 .signature.standalone {
 	border-top-width: 0;
 	margin-top: 0;
