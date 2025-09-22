@@ -417,6 +417,11 @@ input.button1:focus, input.button2:focus, input.button3:focus {
 	margin-top: 23px;
 }
 
+.navbar #search-box {
+	padding: 0px;
+	padding-left: 5px;
+}
+
 .search-header .inputbox { border: 0; }
 
 .navbar .linklist > li.responsive-search { display: none; }
