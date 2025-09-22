@@ -1380,23 +1380,23 @@ ul.linklist:after,
 
 /* Spoiler header */
 details.spoiler {
-	background-color:#2d2d2d;
+	background-color:#2d2d2d !important;
 }
 details.spoiler,
 .spoiler-header {
-	border-color:#535353;
+	border-color:#535353 !important ;
 }
 .spoiler-header {
-	background-color:#3f3f3f;
+	background-color:#3f3f3f !important;
 	color:#FFF;
 }
 .spoiler-status {
-	background-color:#d9534f
+	background-color:#d9534f !important;
 }
 .spoiler-status,
 .spoiler-status>.icon {
-	color:#fff
+	color:#fff !important;
 }
 details.spoiler[open]>.spoiler-header>.spoiler-status {
-	background-color:#5cb85c
+	background-color:#5cb85c !important;
 }
