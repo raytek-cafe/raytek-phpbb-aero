@@ -440,16 +440,16 @@ blockquote blockquote blockquote {
 
 /* Code block */
 .codebox {
-	background-color: #FFFFFF;
-	border-color: #C9D2D8;
+	background-color: #2d2d2d;
+	border-color: #535353;
 }
 
 .codebox p {
-	border-bottom-color: #CCCCCC;
+	border-bottom-color: #535353;
 }
 
 .codebox code {
-	color: #2E8B57;
+	color: #8FFFB4;
 }
 
 /* Attachments
