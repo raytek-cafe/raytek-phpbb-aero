@@ -1377,3 +1377,26 @@ ul.linklist:after,
 	border-color: #566877;
 	background-color: #EFF7FB;
 }
+
+/* Spoiler header */
+details.spoiler {
+	background-color:#2d2d2d;
+}
+details.spoiler,
+.spoiler-header {
+	border-color:#535353;
+}
+.spoiler-header {
+	background-color:#3f3f3f;
+	color:#FFF;
+}
+.spoiler-status {
+	background-color:#d9534f
+}
+.spoiler-status,
+.spoiler-status>.icon {
+	color:#fff
+}
+details.spoiler[open]>.spoiler-header>.spoiler-status {
+	background-color:#5cb85c
+}
