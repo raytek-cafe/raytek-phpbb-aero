@@ -814,26 +814,26 @@ ul.cplist {
 /* CP tabbed menu
 ----------------------------------------*/
 .tabs .tab > a {
-	color: #002A46;
+	color: #AFAFAF;
 }
 
 .tabs .tab > a:hover {
-	border-color: #A4B7CF;
-	color: #002A46;
+	border-color: #CACACA;
+	color: #FFFFFF;
 	box-shadow: 1px 1px 0 #FFFFFF inset, -1px -1px 0 #FFFFFF inset;
 }
 
 .tabs .activetab > a,
 .tabs .activetab > a:hover {
 	background: transparent url("./images/bg_tab.gif") no-repeat 100% 0;
-	border-color: #A4B7CF;
+	border-color: #cacaca;
 	box-shadow: 1px 1px 0 #FFFFFF inset, -1px -1px 0 #FFFFFF inset;
-	color: #002A46;
+	color: #AFAFAF;
 	padding-right: 20px;
 }
 
 .tabs .activetab > a:hover {
-	color: #002A46;
+	color: #FFFFFF;
 }
 
 /* Mini tabbed menu used in MCP
@@ -873,15 +873,15 @@ ul.cplist {
 }
 
 .navigation a:hover {
-	background: #E8F5FD;
-	color: #002A46;
-	border: 1px solid #D8F0FA;
+	background: #5f5f5f;
+	color: #cacaca;
+	border: 1px solid #afafaf;
 }
 
 .navigation .active-subsection a {
-	background: #E0F2FB;
+	background: #9f9f9f;
 	color: #000000;
-	border: 1px solid #99DEFD;
+	border: 1px solid #2d2d2d;
 }
 
 .navigation .active-subsection a:hover {
