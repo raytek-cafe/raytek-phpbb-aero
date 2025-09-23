@@ -33,7 +33,7 @@ Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
 a { color: #afafaf; } /*jade red */
-a:hover { color: #fff; text-decoration: none; }
+a:hover { color: #FAFAFA; text-decoration: none; }
 
 a:focus, a:active { text-decoration: none; }
 
@@ -113,7 +113,7 @@ a.subforum { font-size: 10px; }
 }
 
 .bgoverride {
-	background-color: #EFF7FB !important;
+	background-color: #2f2f2f !important;
 }
 
 .bg1 {
@@ -171,12 +171,12 @@ table.table1 tbody .attach-row, #cp-main table.table1 tbody tr {
 }
 
 table.table1 tbody tr:hover, table.table1 tbody tr.hover {
-	background-color: #E4F4FE;
+	background-color: #5f5f5f;
 	color: #000;
 }
 
 table.table1 td {
-	color: #333333;
+	color: #cacaca;
 }
 
 table.table1 tbody td {
@@ -802,7 +802,7 @@ ul.cplist {
 }
 
 .panel-container table.table1 thead th {
-	color: #333333;
+	color: #CACACA;
 	border-bottom-color: #333333;
 }
 
@@ -1014,9 +1014,9 @@ fieldset.quick-login input.inputbox {
 /* Input field styles
 ---------------------------------------- */
 .inputbox {
-	background-color: #FFFFFF;
-	border-color: #B4BAC0;
-	color: #333333;
+	background-color: #535353;
+	border-color: #2f2f2f;
+	color: #cacaca;
 }
 
 .inputbox:-moz-placeholder {
@@ -1107,13 +1107,13 @@ input.disabled {
 }
 
 .dropdown-extended ul li:hover {
-	background-color: #CFE1F6;
-	color: #000000;
+	background-color: #5F5F5F;
+	color: #FAFAFA;
 }
 
 .dropdown-extended .header, .dropdown-extended .footer {
-	border-color: #B9B9B9;
-	color: #000000;
+	border-color: #CACACA;
+	color: #FAFAFA;
 }
 
 .dropdown-extended .footer {
@@ -1124,7 +1124,7 @@ input.disabled {
 .dropdown-extended .header {
 	background-color: #F1F8FF; /* Old browsers */ /* FF3.6+ */
 	background-image: -webkit-linear-gradient(top, #F1F8FF 0%, #CADCEB 100%);
-	background-image: linear-gradient(to bottom, #F1F8FF 0%,#CADCEB 100%); /* W3C */
+	background-image: linear-gradient(to bottom, #5F5F5F 0%,#2F2F2F 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F1F8FF', endColorstr='#CADCEB',GradientType=0 ); /* IE6-9 */
 }
 
@@ -1137,7 +1137,7 @@ input.disabled {
 }
 
 .dropdown-extended .pointer-inner {
-	border-color: #F1F8FF transparent;
+	border-color: #5F5F5F transparent;
 }
 
 .dropdown .dropdown-contents {
