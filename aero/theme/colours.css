@@ -965,7 +965,7 @@ select {
 }
 
 label {
-	color: #333333;
+	color: #CACACA;
 }
 
 option.disabled-option {
@@ -975,7 +975,7 @@ option.disabled-option {
 /* Definition list layout for forms
 ---------------------------------------- */
 dd label {
-	color: #333;
+	color: #CACACA;
 }
 
 fieldset.fields1 {
@@ -984,11 +984,11 @@ fieldset.fields1 {
 
 /* Hover effects */
 fieldset dl:hover dt label {
-	color: #000000;
+	color: #CACACA;
 }
 
 fieldset.fields2 dl:hover dt label {
-	color: inherit;
+	color: #FAFAFA;
 }
 
 /* Quick-login on index page */
@@ -1028,7 +1028,7 @@ fieldset.quick-login input.inputbox {
 }
 
 .inputbox:hover {
-	border-color: #7DA2CE;
+	border-color: #CACACA;
 }
 
 .inputbox:focus {
