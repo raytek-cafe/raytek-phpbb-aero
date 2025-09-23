@@ -1014,9 +1014,9 @@ fieldset.quick-login input.inputbox {
 /* Input field styles
 ---------------------------------------- */
 .inputbox {
-	background-color: #535353;
+	background-color: #FFFFFF;
 	border-color: #2f2f2f;
-	color: #2f2f2f;
+	color: #000000;
 }
 
 .inputbox:-moz-placeholder {
