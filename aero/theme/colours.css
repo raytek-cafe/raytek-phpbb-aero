@@ -1177,7 +1177,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 /* Blue */
 .blue body {
 	background-color: #CCE3F3;
-	background-image: url("./images/blue/bg_blue.gif");
+	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
 
@@ -1212,7 +1212,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 /* Black */
 .black body {
 	background-color: #DFDFDF;
-	background-image: url("./images/black/bg_black.gif");
+	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
 
@@ -1247,7 +1247,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 /* Green */
 .green body {
 	background-color: #CCF3D9;
-	background-image: url("./images/green/bg_green.gif");
+	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
 
@@ -1282,7 +1282,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 /* Pink */
 .pink body {
 	background-color: #F3CCE3;
-	background-image: url("./images/pink/bg_pink.gif");
+	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
 
@@ -1317,7 +1317,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 /* Purple */
 .purple body {
 	background-color: #DCCCF3;
-	background-image: url("./images/purple/bg_purple.gif");
+	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
 
