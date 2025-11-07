@@ -57,18 +57,18 @@ a.subforum { font-size: 10px; }
 
 /* Post body links */
 .postlink {
-	border-bottom-color: #368AD2;
-	color: #368AD2;
+	border-bottom-color: #7DC3FF;
+	color: #7DC3FF;
 }
 
 .postlink:visited {
-	border-bottom-color: #5D8FBD;
-	color: #5D8FBD;
+	border-bottom-color: #AB94FF;
+	color: #AB94FF;
 }
 
 .postlink:hover {
-	background-color: #D0E4F6;
-	color: #0D4473;
+	background-color: #4d5661;
+	color: #EFF8FF;
 }
 
 .signature a, .signature a:hover {
