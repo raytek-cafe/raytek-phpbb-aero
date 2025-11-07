@@ -565,7 +565,7 @@ Colours and backgrounds for buttons.css
 .button {
 	border-color: #2f2f2f;
 	background-color: #161616; /* Old browsers */ /* FF3.6+ */
-	/*background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E9E9E9 100%);*/
+	/*! background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #E9E9E9 100%); */
 	background-image: linear-gradient(to bottom, #4a4a4a 0%,#161616 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#E9E9E9',GradientType=0 ); /* IE6-9 */
 	/*box-shadow: 0 0 0 1px #FFFFFF inset;*/
@@ -669,12 +669,12 @@ Colours and backgrounds for buttons.css
 ---------------------------------------- */
 
 .pagination li a {
-	background: #ECEDEE;
+	background: #454545;
 	filter: none;
-	border-color: #B4BAC0;
+	border-color: #656565;
 	box-shadow: none;
 	-webkit-box-shadow: none;
-	color: #555555;
+	color: #ededed;
 }
 
 .pagination li.ellipsis span {
@@ -689,10 +689,10 @@ Colours and backgrounds for buttons.css
 }
 
 .pagination li a:hover, .pagination li a:hover .icon, .pagination .dropdown-visible a.dropdown-trigger, .nojs .pagination .dropdown-container:hover a.dropdown-trigger {
-	background: #DCEBFC;
-	border-color: #7DA2CE;
+	background: #aaaaaa;
+	border-color: #656565;
 	filter: none;
-	color: #555555;
+	color: #333333;
 	text-shadow: none;
 }
 
