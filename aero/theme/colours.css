@@ -570,7 +570,7 @@ Colours and backgrounds for buttons.css
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#E9E9E9',GradientType=0 ); /* IE6-9 */
 	/*box-shadow: 0 0 0 1px #FFFFFF inset;*/
 	/*-webkit-box-shadow: 0 0 0 1px #FFFFFF inset;*/
-	color: #002A46;
+	color: #AFAFAF;
 }
 
 
@@ -851,7 +851,7 @@ ul.cplist {
 .minitabs .tab > a,
 .minitabs .tab > a:hover {
 	background-color: #E8F5FD;
-	color: #002A46;
+	color: #AFAFAF;
 	border: 1px solid #D8F0FA;
 }
 
@@ -865,7 +865,7 @@ ul.cplist {
 /* Responsive tabs
 ----------------------------------------*/
 .responsive-tab .responsive-tab-link:before {
-	border-color: #002A46;
+	border-color: #AFAFAF;
 }
 
 .responsive-tab .responsive-tab-link:hover:before {
@@ -1205,7 +1205,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 }
 
 .blue .action-bar .coloredbutton {
-	border-color: #002A46;
+	border-color: #AFAFAF;
 	background-color: #95B5CB; /* Old browsers */ /* FF3.6+ */
 	background-image: -webkit-linear-gradient(top, #95B5CB 0%, #00263F 100%);
 	background-image: linear-gradient(to bottom, #95B5CB 0%,#00263F 100%); /* W3C */
