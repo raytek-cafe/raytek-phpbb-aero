@@ -18,7 +18,7 @@ body {
 }
 
 .action-bar .coloredbutton {
-	border-color: #AFAFAF;
+	border-color: #002A46;
 	background-color: #95B5CB; /* Old browsers */ /* FF3.6+ */
 	background-image: -webkit-linear-gradient(top, #95B5CB 0%, #00263F 100%);
 	background-image: linear-gradient(to bottom, #95B5CB 0%,#00263F 100%); /* W3C */
