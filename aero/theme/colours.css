@@ -591,6 +591,14 @@ Colours and backgrounds for buttons.css
 	line-height: 18px;
 }
 
+.action-bar .coloredbutton .icon {
+	color: #ddd;
+}
+
+.action-bar:hover .coloredbutton .icon {
+	color: #ddd;
+}
+
 .action-bar .newtopic:hover, .action-bar .postreply:hover {
 	color: #EEEEEE;
 }
