@@ -915,11 +915,11 @@ ul.cplist {
 
 /* Friends list */
 .cp-mini {
-	background-color: #FFFFFF;
+	background-color: #333333;
 }
 
 dl.mini dt {
-	color: #333333;
+	color: #afafaf;
 }
 
 /* PM Styles
