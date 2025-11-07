@@ -531,7 +531,7 @@ fieldset.polls dd div {
 }
 
 .pm .postprofile {
-	border-color: #DDDDDD;
+	border-color: #535353;
 }
 
 .postprofile strong {
@@ -909,7 +909,7 @@ ul.cplist {
 }
 
 .cp-main .pm {
-	background-color: #FFFFFF;
+	background-color: #2d2d2d;
 	border-bottom: 1px solid transparent;
 }
 
