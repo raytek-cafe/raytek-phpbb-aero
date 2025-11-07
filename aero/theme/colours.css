@@ -970,8 +970,8 @@ Colours and backgrounds for forms.css
 ----------------------------------------*/
 select {
 	border-color: #666666;
-	background-color: #FAFAFA;
-	color: #000;
+	background-color: #353535;
+	color: #fff;
 }
 
 label {
@@ -1060,7 +1060,7 @@ fieldset.quick-login input.inputbox {
 a.button1, input.button1, input.button3, a.button2, input.button2 {
 	color: #333333;
 	background-color: #F2F2F2; /* Old browsers */ /* FF3.6+ */
-	background-image: -webkit-linear-gradient(top, #F2F2F2 0%, #CFCFCF 100%);
+	background-image: -webkit-linear-gradient(top, #fff 0%, #CFCFCF 100%);
 	background-image: linear-gradient(to bottom, #F2F2F2 0%,#CFCFCF 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F2F2F2', endColorstr='#CFCFCF',GradientType=0 ); /* IE6-9 */
 }
