@@ -396,7 +396,7 @@ input.button1:focus, input.button2:focus, input.button3:focus {
 }
 
 .search-box .inputbox {
-	background: transparent url("./images/searchbg.png");
+	/*background: transparent url("./images/searchbg.png");*/
 	border-right-width: 0;
 	border-radius: 4px 0 0 4px;
 	float: left;

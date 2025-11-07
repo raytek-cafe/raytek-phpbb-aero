@@ -5,6 +5,7 @@ Colours and backgrounds for common.css
 
 html, body {
 	color: #ededed;
+	color-scheme: dark;
 }
 
 h1 {
@@ -113,7 +114,7 @@ a.subforum { font-size: 10px; }
 }
 
 .bgoverride {
-	background-color: #2f2f2f !important;
+	background-color: #252525 !important;
 }
 
 .bg1 {
@@ -629,15 +630,15 @@ Colours and backgrounds for buttons.css
 .post-buttons .button {
 	background: #C6D7E7 url("./images/postbuttonbg.gif") repeat-x 0 0;
 	border: 1px solid #999999;
-	box-shadow: 0 0 0 1px #DEEBF7 inset;
-	-webkit-box-shadow: 0 0 0 1px #DEEBF7 inset;
+	/*box-shadow: 0 0 0 1px #999999 inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #999999 inset;*/
 	text-shadow: none;
 }
 
 .post-buttons .button:hover {
 	background: #AAD5F3 url("./images/postbuttonbg.gif") repeat-x 0 -24px;
-	box-shadow: 0 0 0 1px #D6EBFA inset;
-	-webkit-box-shadow: 0 0 0 1px #D6EBFA inset;
+	/*box-shadow: 0 0 0 1px #D6EBFA inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #D6EBFA inset;*/
 }
 
 .post-buttons .button .icon {
@@ -648,13 +649,14 @@ Colours and backgrounds for buttons.css
 
 .post-buttons .deletebutton {
 	background: #EFAA9C url("./images/postbuttonbg.gif") repeat-x 0 -48px;
-	box-shadow: 0 0 0 1px #F7D3CE inset;
-	-webkit-box-shadow: 0 0 0 1px #F7D3CE inset;
+	border: 1px solid #f7d3ce;
+	/*box-shadow: 0 0 0 1px #F7D3CE inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #F7D3CE inset;*/
 }
 .post-buttons .deletebutton:hover {
 	background: #EFAA9C url("./images/postbuttonbg.gif") repeat-x 0 -72px;
-	box-shadow: 0 0 0 1px #F7D3CE inset;
-	-webkit-box-shadow: 0 0 0 1px #F7D3CE inset;
+	/*box-shadow: 0 0 0 1px #F7D3CE inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #F7D3CE inset;*/
 }
 
 .dropdown-contents .deletebutton, .dropdown-contents .deletebutton:hover {
@@ -700,7 +702,7 @@ Colours and backgrounds for buttons.css
 .search-box .inputbox,
 .search-box .inputbox:hover,
 .search-box .inputbox:focus {
-	border-color: #C7C3BF;
+	border-color: #555;
 }
 
 .search-header {
@@ -1008,7 +1010,7 @@ fieldset.quick-login input.inputbox {
 ----------------------------------------*/
 
 .message-box textarea {
-	color: #333333;
+	color: #FFFFFF;
 }
 
 .message-box textarea.drag-n-drop {
@@ -1022,9 +1024,9 @@ fieldset.quick-login input.inputbox {
 /* Input field styles
 ---------------------------------------- */
 .inputbox {
-	background-color: #FFFFFF;
+	background-color: #353535;
 	border-color: #2f2f2f;
-	color: #000000;
+	color: #FFFFFF;
 }
 
 .inputbox:-moz-placeholder {
@@ -1040,7 +1042,7 @@ fieldset.quick-login input.inputbox {
 }
 
 .inputbox:focus {
-	border-color: #7DA2CE;
+	border-color: #AAAAAA;
 }
 
 .inputbox:focus:-moz-placeholder {
