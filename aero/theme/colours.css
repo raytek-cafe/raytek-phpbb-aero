@@ -1176,7 +1176,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 
 /* Blue */
 .blue body {
-	background-color: #CCE3F3;
+	background-color: #191919;
 	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
@@ -1211,7 +1211,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 
 /* Black */
 .black body {
-	background-color: #DFDFDF;
+	background-color: #191919;
 	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
@@ -1246,7 +1246,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 
 /* Green */
 .green body {
-	background-color: #CCF3D9;
+	background-color: #191919;
 	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
@@ -1281,7 +1281,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 
 /* Pink */
 .pink body {
-	background-color: #F3CCE3;
+	background-color: #191919;
 	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
@@ -1316,7 +1316,7 @@ li.notification-reported strong, li.notification-disapproved strong {
 
 /* Purple */
 .purple body {
-	background-color: #DCCCF3;
+	background-color: #191919;
 	background-image: url("./images/bg_carbon.gif");
 	background-repeat: repeat-x;
 }
