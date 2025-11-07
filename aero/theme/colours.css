@@ -43,7 +43,7 @@ a.subforum { font-size: 10px; }
 /* Links on gradient backgrounds */
 .forumbg .header a, .forabg .header a, th a {
 	color: #ededed;
-	text-shadow: 0 0 5px #FFFFFF;
+	/*text-shadow: 0 0 5px #FFFFFF;*/
 }
 
 .forumbg .header a:hover, .forabg .header a:hover, th a:hover {
