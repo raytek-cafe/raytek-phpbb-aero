@@ -113,7 +113,7 @@ a.subforum { font-size: 10px; }
 }
 
 .bgoverride {
-	background-color: #2f2f2f !important;
+	background-color: #252525 !important;
 }
 
 .bg1 {
@@ -1009,7 +1009,7 @@ fieldset.quick-login input.inputbox {
 ----------------------------------------*/
 
 .message-box textarea {
-	color: #333333;
+	color: #FFFFFF;
 }
 
 .message-box textarea.drag-n-drop {
@@ -1023,9 +1023,9 @@ fieldset.quick-login input.inputbox {
 /* Input field styles
 ---------------------------------------- */
 .inputbox {
-	background-color: #FFFFFF;
+	background-color: #353535;
 	border-color: #2f2f2f;
-	color: #000000;
+	color: #FFFFFF;
 }
 
 .inputbox:-moz-placeholder {
@@ -1041,7 +1041,7 @@ fieldset.quick-login input.inputbox {
 }
 
 .inputbox:focus {
-	border-color: #7DA2CE;
+	border-color: #AAAAAA;
 }
 
 .inputbox:focus:-moz-placeholder {
