@@ -160,7 +160,7 @@ ul.navlinks {
 ----------------------------------------*/
 table.table1 thead th {
 	color: #CACACA;
-	text-shadow: 0 0 5px #FFFFFF;
+	/*text-shadow: 0 0 5px #FFFFFF;*/
 }
 
 table.table1 tbody tr {
