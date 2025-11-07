@@ -629,15 +629,15 @@ Colours and backgrounds for buttons.css
 .post-buttons .button {
 	background: #C6D7E7 url("./images/postbuttonbg.gif") repeat-x 0 0;
 	border: 1px solid #999999;
-	box-shadow: 0 0 0 1px #DEEBF7 inset;
-	-webkit-box-shadow: 0 0 0 1px #DEEBF7 inset;
+	/*box-shadow: 0 0 0 1px #999999 inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #999999 inset;*/
 	text-shadow: none;
 }
 
 .post-buttons .button:hover {
 	background: #AAD5F3 url("./images/postbuttonbg.gif") repeat-x 0 -24px;
-	box-shadow: 0 0 0 1px #D6EBFA inset;
-	-webkit-box-shadow: 0 0 0 1px #D6EBFA inset;
+	/*box-shadow: 0 0 0 1px #D6EBFA inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #D6EBFA inset;*/
 }
 
 .post-buttons .button .icon {
@@ -648,13 +648,14 @@ Colours and backgrounds for buttons.css
 
 .post-buttons .deletebutton {
 	background: #EFAA9C url("./images/postbuttonbg.gif") repeat-x 0 -48px;
-	box-shadow: 0 0 0 1px #F7D3CE inset;
-	-webkit-box-shadow: 0 0 0 1px #F7D3CE inset;
+	border: 1px solid #f7d3ce;
+	/*box-shadow: 0 0 0 1px #F7D3CE inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #F7D3CE inset;*/
 }
 .post-buttons .deletebutton:hover {
 	background: #EFAA9C url("./images/postbuttonbg.gif") repeat-x 0 -72px;
-	box-shadow: 0 0 0 1px #F7D3CE inset;
-	-webkit-box-shadow: 0 0 0 1px #F7D3CE inset;
+	/*box-shadow: 0 0 0 1px #F7D3CE inset;
+	 *   -webkit-box-shadow: 0 0 0 1px #F7D3CE inset;*/
 }
 
 .dropdown-contents .deletebutton, .dropdown-contents .deletebutton:hover {
