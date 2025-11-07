@@ -1023,6 +1023,10 @@ fieldset.quick-login input.inputbox {
 
 /* Input field styles
 ---------------------------------------- */
+.bg3 .inputbox {
+	background-color: #454545;
+}
+
 .inputbox {
 	background-color: #353535;
 	border-color: #2f2f2f;
