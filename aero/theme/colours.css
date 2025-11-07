@@ -33,7 +33,7 @@ Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
 a { color: #afafaf; } /*jade red */
-a:hover { color: #FAFAFA; text-decoration: none; }
+a:hover { color: #cacaca; text-decoration: none; }
 
 a:focus, a:active { text-decoration: none; }
 
@@ -252,19 +252,19 @@ dl.details dd {
 
 /* Jumpbox */
 .jumpbox .dropdown li {
-	border-top-color: #CCCCCC;
+	border-top-color: #616161;
 }
 
 .jumpbox-cat-link {
-	background-color: #DEF1FC;
-	border-top-color: #DEF1FC;
-	color: #002A46;
+	background-color: #252525;
+	border-top-color: #252525;
+	color: #919191;
 }
 
 .jumpbox-cat-link:hover {
-	background-color: #DEF1FC;
-	border-top-color: #DEF1FC;
-	color: #005893;
+	background-color: #242424;
+	border-top-color: #242424;
+	color: #cacaca;
 }
 
 .jumpbox-forum-link {
@@ -276,15 +276,15 @@ dl.details dd {
 }
 
 .jumpbox .dropdown .pointer-inner {
-	border-color: #EFF7FB transparent;
+	border-color: #2F2F2F transparent;
 }
 
 .jumpbox-sub-link {
-	background-color: #EFF7FB;
+	background-color: #2F2F2F;
 }
 
 .jumpbox-sub-link:hover {
-	background-color: #EFF7FB;
+	background-color: #2F2F2F;
 }
 
 .jumpbox .button { color: #aeaeae; }
