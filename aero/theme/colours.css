@@ -118,7 +118,7 @@ a.subforum { font-size: 10px; }
 }
 
 .bg1 {
-	background-color: #252525;
+	background-color: #2d2d2d;
 }
 
 table.zebra-list tr:nth-child(odd) td, ul.zebra-list li:nth-child(odd) {
@@ -441,7 +441,7 @@ blockquote blockquote blockquote {
 
 /* Code block */
 .codebox {
-	background-color: #252525;
+	background-color: #2d2d2d;
 	border-color: #535353;
 }
 
@@ -456,7 +456,7 @@ blockquote blockquote blockquote {
 /* Attachments
 ----------------------------------------*/
 .attachbox {
-	background-color: #252525;
+	background-color: #2d2d2d;
 	border-color:  #C9D2D8;
 }
 
@@ -469,26 +469,26 @@ blockquote blockquote blockquote {
 }
 
 .attachbox p {
-	color: #656565;
+	color: #666666;
 }
 
 .attachbox p.stats {
-	color: #656565;
+	color: #666666;
 }
 
 /* Inline image thumbnails */
 
 dl.file dd {
-	color: #656565;
+	color: #666666;
 }
 
 dl.thumbnail img {
-	border-color: #656565;
+	border-color: #666666;
 	background-color: #FFFFFF;
 }
 
 dl.thumbnail dd {
-	color: #656565;
+	color: #666666;
 }
 
 dl.thumbnail dt a:hover {
@@ -504,7 +504,7 @@ dl.thumbnail dt a:hover img {
 
 fieldset.polls dl {
 	border-top-color: #DCDEE2;
-	color: #656565;
+	color: #666666;
 }
 
 fieldset.polls dl.voted {
@@ -891,7 +891,7 @@ ul.cplist {
 .navigation .active-subsection a {
 	background: #9f9f9f;
 	color: #000000;
-	border: 1px solid #252525;
+	border: 1px solid #2d2d2d;
 }
 
 .navigation .active-subsection a:hover {
@@ -909,7 +909,7 @@ ul.cplist {
 }
 
 .cp-main .pm {
-	background-color: #252525;
+	background-color: #2d2d2d;
 	border-bottom: 1px solid transparent;
 }
 
@@ -953,12 +953,12 @@ dl.mini dt {
 
 /* Avatar gallery */
 .gallery label {
-	background: #252525;
-	border-color: #656565;
+	background: #FFFFFF;
+	border-color: #CCC;
 }
 
 .gallery label:hover {
-	background-color: #353535;
+	background-color: #EEE;
 }
 
 /*
@@ -969,7 +969,7 @@ Colours and backgrounds for forms.css
 /* General form styles
 ----------------------------------------*/
 select {
-	border-color: #656565;
+	border-color: #666666;
 	background-color: #353535;
 	color: #fff;
 }
@@ -1098,13 +1098,13 @@ a.button1:hover, input.button1:hover, a.button2:hover, input.button2:hover, inpu
 }
 
 input.disabled {
-	color: #656565;
+	color: #666666;
 }
 
 /* jQuery popups
 ---------------------------------------- */
 .phpbb_alert {
-	background-color: #252525;
+	background-color: #2d2d2d;
 	border-color: #999999;
 }
 .darken {
@@ -1147,7 +1147,7 @@ input.disabled {
 }
 
 .dropdown .pointer-inner {
-	border-color: #252525 transparent;
+	border-color: #2d2d2d transparent;
 }
 
 .dropdown-extended .pointer-inner {
@@ -1155,7 +1155,7 @@ input.disabled {
 }
 
 .dropdown .dropdown-contents {
-	background: #252525;
+	background: #2d2d2d;
 	border-color: #535353;
 	box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.2);
 }

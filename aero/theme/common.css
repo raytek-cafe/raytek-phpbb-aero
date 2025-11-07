@@ -1380,7 +1380,7 @@ ul.linklist:after,
 
 /* Spoiler header */
 details.spoiler {
-	background-color:#252525 !important;
+	background-color:#2d2d2d !important;
 	border-radius: 0px;
 }
 details.spoiler,
@@ -1388,7 +1388,7 @@ details.spoiler,
 	border-color:#535353 !important ;
 }
 .spoiler-header {
-	background-color:#252525 !important;
+	background-color:#2d2d2d !important;
 	color:#FFF !important;
 	padding: 0px 5px !important;
 }
