@@ -288,7 +288,7 @@ dl.details dd {
 }
 
 .jumpbox .button { color: #aeaeae; }
-.jumpbox .button:hover { color: #2f2f2f; }
+.jumpbox .button:hover { color: #ccc; }
 
 /* Miscellaneous styles
 ---------------------------------------- */
@@ -580,7 +580,7 @@ Colours and backgrounds for buttons.css
 	background-image: -webkit-linear-gradient(top, #E9E9E9 0%, #FFFFFF 100%);
 	background-image: linear-gradient(to bottom, #2f2f2f 0%,#5f5f5f 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E9E9E9', endColorstr='#FFFFFF',GradientType=0 ); /* IE6-9 */
-	text-shadow: 1px 1px 0 #FFFFFF, -1px -1px 0 #FFFFFF, -1px -1px 0 rgba(188, 42, 77, 0.2);
+
 }
 
 .action-bar .coloredbutton {
@@ -604,7 +604,7 @@ Colours and backgrounds for buttons.css
 .button-secondary:hover,
 .button:focus .icon,
 .button:hover .icon {
-	color: #2F2F2F;
+	color: #CCCCCC;
 }
 
 .button-search:hover,
