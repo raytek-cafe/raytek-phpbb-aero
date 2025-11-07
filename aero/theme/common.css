@@ -217,7 +217,7 @@ a:hover	{ text-decoration: underline; }
 	border: 1px solid;
 	-moz-box-shadow: 1px 1px 8px #555;
 	-webkit-box-shadow: 1px 1px 8px #555;
-	box-shadow: 1px 1px 8px #555;
+	box-shadow: 1px 1px 8px #000;
 }
 
 .custombg {
@@ -229,7 +229,7 @@ a:hover	{ text-decoration: underline; }
 	border: 1px solid;
 	-moz-box-shadow: 1px 1px 8px #555;
 	-webkit-box-shadow: 1px 1px 8px #555;
-	box-shadow: 1px 1px 8px #555;
+	box-shadow: 1px 1px 8px #000;
 }
 
 .customborder {
