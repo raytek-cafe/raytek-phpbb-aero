@@ -795,16 +795,16 @@ Colours and backgrounds for cp.css
 ----------------------------------------*/
 
 .panel-container h3, .panel-container hr, .cp-menu hr {
-	border-color: #A4B3BF;
+	border-color: #656565;
 }
 
 .panel-container .panel li.row {
-	border-bottom-color: #B5C1CB;
-	border-top-color: #F9F9F9;
+	border-bottom-color: #656565;
+	border-top-color: #656565;
 }
 
 ul.cplist {
-	border-top-color: #B5C1CB;
+	border-top-color: #656565;
 }
 
 .panel-container .panel li.header dd, .panel-container .panel li.header dt {
