@@ -81,7 +81,7 @@ a.subforum { font-size: 10px; }
 
 /* Arrow links  */
 .arrow-left:hover, .arrow-right:hover {
-	color: #368AD2;
+	color: #CACACA;
 }
 
 /* Round cornered boxes and backgrounds
@@ -393,12 +393,12 @@ li.header dt, li.header dd {
 }
 
 .content h2, .panel h2 {
-	color: #002A46;
+	color: #AFAFAF;
 	border-bottom-color: #CCCCCC;
 }
 
 dl.faq dt {
-	color: #333333;
+	color: #F5F5F5;
 }
 
 .posthilit {
@@ -604,7 +604,7 @@ Colours and backgrounds for buttons.css
 .button-secondary:hover,
 .button:focus .icon,
 .button:hover .icon {
-	color: #0A8ED0;
+	color: #2F2F2F;
 }
 
 .button-search:hover,
