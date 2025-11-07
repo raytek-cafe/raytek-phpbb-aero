@@ -98,7 +98,7 @@ a.subforum { font-size: 10px; }
 
 .forabg, .forumbg, .custombg {
 	background-image: url("./images/bg_list.gif");
-	border-color: #394854 #212930 #263038 #3A4955;
+	border-color: #525252 #222 #333333 #525252;
 }
 .panel {
 	background-color: #252525;
