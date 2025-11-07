@@ -828,16 +828,16 @@ ul.cplist {
 }
 
 .tabs .tab > a:hover {
-	border-color: #CACACA;
+	border-color: #050505;
 	color: #FFFFFF;
-	box-shadow: 1px 1px 0 #FFFFFF inset, -1px -1px 0 #FFFFFF inset;
+	box-shadow: 1px 1px 0 #606060 inset, -1px -1px 0 #606060 inset;
 }
 
 .tabs .activetab > a,
 .tabs .activetab > a:hover {
 	background: transparent url("./images/bg_tab.gif") no-repeat 100% 0;
-	border-color: #cacaca;
-	box-shadow: 1px 1px 0 #FFFFFF inset, -1px -1px 0 #FFFFFF inset;
+	border-color: #050505;
+	box-shadow: 1px 1px 0 #606060 inset, -1px -1px 0 #606060 inset;
 	color: #AFAFAF;
 	padding-right: 20px;
 }
