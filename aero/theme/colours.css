@@ -1086,7 +1086,7 @@ a.button1, a.button2 {
 /* Hover states */
 a.button1:hover, input.button1:hover, a.button2:hover, input.button2:hover, input.button3:hover {
 	border-color: #999999;
-	background-color: #EAF6FD; /* Old browsers */ /* FF3.6+ */
+	background-color: #858585; /* Old browsers */ /* FF3.6+ */
 	background-image: -webkit-linear-gradient(top, #858585 0%, #555555 100%);
 	background-image: linear-gradient(to bottom, #858585 0%,#555555 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#EAF6FD', endColorstr='#A7D9F5',GradientType=0 ); /* IE6-9 */
