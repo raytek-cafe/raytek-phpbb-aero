@@ -134,7 +134,7 @@ table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
 }
 
 .bg3 {
-	background-color: #2F2F2F;
+	background-color: #1B1B1B;
 }
 
 .ucprowbg {
@@ -970,7 +970,7 @@ Colours and backgrounds for forms.css
 ----------------------------------------*/
 select {
 	border-color: #666666;
-	background-color: #353535;
+	background-color: #454545;
 	color: #fff;
 }
 
@@ -1003,7 +1003,7 @@ fieldset.fields2 dl:hover dt label {
 
 /* Quick-login on index page */
 fieldset.quick-login input.inputbox {
-	background-color: #353535;
+	background-color: #454545;
 }
 
 /* Posting page styles
@@ -1023,12 +1023,9 @@ fieldset.quick-login input.inputbox {
 
 /* Input field styles
 ---------------------------------------- */
-.bg3 .inputbox {
-	background-color: #454545;
-}
 
 .inputbox {
-	background-color: #353535;
+	background-color: #454545;
 	border-color: #2f2f2f;
 	color: #FFFFFF;
 }
