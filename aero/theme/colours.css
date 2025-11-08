@@ -211,7 +211,7 @@ dl.details dd {
 /* Icon styles
 ---------------------------------------- */
 .icon.icon-blue, a:hover .icon.icon-blue {
-	color: #196db5;
+	color: #4094dc;
 }
 
 .icon.icon-green, a:hover .icon.icon-green {
@@ -219,7 +219,7 @@ dl.details dd {
 }
 
 .icon.icon-red, a:hover .icon.icon-red {
-	color: #AA0000;
+	color: #D42A2A;
 }
 
 .icon.icon-orange, a:hover .icon.icon-orange {
@@ -227,11 +227,11 @@ dl.details dd {
 }
 
 .icon.icon-bluegray, a:hover .icon.icon-bluegray {
-	color: #999999;
+	color: #536482;
 }
 
 .icon.icon-gray, a:hover .icon.icon-gray {
-	color: #777777;
+	color: #9F9F9F;
 }
 
 .icon.icon-lightgray, a:hover .icon.icon-lightgray {
@@ -850,16 +850,16 @@ ul.cplist {
 ----------------------------------------*/
 .minitabs .tab > a,
 .minitabs .tab > a:hover {
-	background-color: #E8F5FD;
+	background-color: #2F2F2F;
 	color: #AFAFAF;
-	border: 1px solid #D8F0FA;
+	border: 1px solid #606060;
 }
 
 .minitabs .activetab > a,
 .minitabs .activetab > a:hover {
-	background-color: #E0F2FB;
-	color: #333333;
-	border: 1px solid #99DEFD;
+	background-color: #2F2F2F;
+	color: #CACACA;
+	border: 1px solid #FAFAFA;
 }
 
 /* Responsive tabs
@@ -869,7 +869,7 @@ ul.cplist {
 }
 
 .responsive-tab .responsive-tab-link:hover:before {
-	border-color: #005893;
+	border-color: #FAFAFA;
 }
 
 /* UCP navigation menu
