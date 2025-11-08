@@ -1030,12 +1030,16 @@ fieldset.quick-login input.inputbox {
 	color: #FFFFFF;
 }
 
+.inputbox::placeholder {
+	color: #aaaaaa;
+}
+
 .inputbox:-moz-placeholder {
-	color: #333333;
+	color: #aaaaaa;
 }
 
 .inputbox::-webkit-input-placeholder {
-	color: #333333;
+	color: #aaaaaa;
 }
 
 .inputbox:hover {
