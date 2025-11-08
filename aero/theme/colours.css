@@ -333,7 +333,7 @@ ul.topics, ul.forums {
 	background-color: #252525;
 	background-image: -webkit-linear-gradient(top, #171717 0%, #252525 100%);
 	background-image: linear-gradient(to bottom, #171717 0%,#252525 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#17EAF1', endColorstr='#25F7FB',GradientType=0 ); /* IE6-9 */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#171717', endColorstr='#252525',GradientType=0 ); /* IE6-9 */
 	border: 1px solid #535353;
 }
 
