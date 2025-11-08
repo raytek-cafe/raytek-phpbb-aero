@@ -331,9 +331,9 @@ Colours and backgrounds for content.css
 
 ul.topics, ul.forums {
 	background-color: #252525;
-	background-image: -webkit-linear-gradient(top, #171717 0%, #252525 100%);
-	background-image: linear-gradient(to bottom, #171717 0%,#252525 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#171717', endColorstr='#252525',GradientType=0 ); /* IE6-9 */
+	background-image: -webkit-linear-gradient(top, #1e1e1e 0%, #252525 100%);
+	background-image: linear-gradient(to bottom, #1e1e1e 0%,#252525 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1E1E1E', endColorstr='#252525',GradientType=0 ); /* IE6-9 */
 	border: 1px solid #535353;
 }
 
