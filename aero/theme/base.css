@@ -48,6 +48,7 @@ hr {
 
 a {
 	color: #afafaf;
+	text-decoration: none;
 }
 
 a:hover,

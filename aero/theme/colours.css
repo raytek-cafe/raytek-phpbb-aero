@@ -34,7 +34,7 @@ Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
 a {color: #c7c7c7;} /*jade red */
-a:hover { color: #ffffff; text-decoration: none; }
+a:hover { color: #ffffff; }
 
 a:focus, a:active { text-decoration: none; }
 
