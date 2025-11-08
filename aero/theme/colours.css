@@ -1176,6 +1176,10 @@ input.disabled {
 /* Notifications
 ---------------------------------------- */
 
+.notification_list a:hover {
+	color: #fff;
+}
+
 .notification_list p.notification-time {
 	color: #4C5D77;
 }
