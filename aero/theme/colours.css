@@ -52,7 +52,7 @@ a.subforum { font-size: 10px; }
 
 /* Notification mark read link */
 .dropdown-extended a.mark_read {
-	background-color: #FFFFFF;
+	background-color: #6c6c6c;
 }
 
 /* Post body links */
@@ -1122,7 +1122,7 @@ input.disabled {
 }
 
 .dropdown-extended ul li:hover {
-	background-color: #5F5F5F;
+	background-color: #414141;
 	color: #FAFAFA;
 }
 
@@ -1181,7 +1181,7 @@ input.disabled {
 }
 
 .notification_list p.notification-time {
-	color: #4C5D77;
+	color: #929292;
 }
 
 li.notification-reported strong, li.notification-disapproved strong {
