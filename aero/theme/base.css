@@ -55,6 +55,7 @@ a:hover,
 a:focus,
 a:active {
 	color: #afafaf;
+	text-decoration: underline;
 }
 
 blockquote,
