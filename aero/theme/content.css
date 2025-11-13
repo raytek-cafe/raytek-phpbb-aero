@@ -334,7 +334,7 @@ dd.option {
 	min-height: 3em;
 	overflow: hidden;
 	line-height: 1.4em;
-	font-family: "Ruberoid", "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	padding-bottom: 1px;
 }
@@ -359,7 +359,7 @@ dd.option {
 }
 
 .content p {
-	font-family: "Ruberoid", "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
 	margin-bottom: 1em;
 	line-height: 1.4em;
@@ -377,7 +377,7 @@ dd.option {
 }
 
 dl.faq {
-	font-family: "Ruberoid", "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
 	font-size: 1.1em;
 	margin-top: 1em;
 	margin-bottom: 2em;
@@ -449,7 +449,7 @@ dd .signature {
 
 /* Post noticies */
 .notice {
-	font-family: "Ruberoid", "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
 	width: auto;
 	margin-top: 1.5em;
 	padding-top: 0.2em;
