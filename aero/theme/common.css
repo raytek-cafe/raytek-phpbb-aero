@@ -645,9 +645,11 @@ a.header-avatar span:after {
 }
 
 .breadcrumbs .crumb:before {
-	content: '\2039';
+	/* content: '\2039'; */
+	content: '\23f4';
 	font-weight: bold;
-	padding: 0 0.5em;
+	/* padding: 0 0.5em; */
+	padding: 7px;
 }
 
 .breadcrumbs .crumb:first-child:before {
