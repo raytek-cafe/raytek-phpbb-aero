@@ -1384,7 +1384,7 @@ ul.linklist:after,
 	background-color: #EFF7FB;
 }
 
-/* Spoiler header */
+/* Spoiler header
 details.spoiler {
 	background-color:#373737 !important;
 	border-radius: 0px;
@@ -1407,4 +1407,26 @@ details.spoiler,
 }
 details.spoiler[open]>.spoiler-header>.spoiler-status {
 	background-color: transparent !important;
+}
+*/
+
+.spoilwrapper {
+  background-color: #373737 !important;
+  border-color: #656565 !important;
+}
+
+.spoilbtn {
+  font-family: Ruberoid, Ruberoid, 'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+  margin: 0px !important;
+  font-size: 10px !important;
+  color: #ededed !important;
+}
+
+.spoilbtn:hover {
+  color: #a9a9a9 !important;
+}
+
+.spoilcontent {
+  color: #ededed !important;
+  border-top-color: #898989 !important;
 }
