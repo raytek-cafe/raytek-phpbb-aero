@@ -168,10 +168,7 @@
   }
 
   .headerbar .inner {
-    display: block;
-    position: relative;
-    transform: translateY(-50%);
-	top: 50% !important;
+    margin-top: 13.5px;
   }
 
   .site-description h1,
