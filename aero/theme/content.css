@@ -559,8 +559,9 @@ blockquote .codebox {
 }
 
 .attachbox dt {
-	font-family: Roboto, Arial, Helvetica, sans-serif;
+	font-family: Ruberoid, Roboto, Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
+	font-weight: bold;
 }
 
 .attachbox dd {
