@@ -164,8 +164,14 @@
   .logo {
     /* change display value to inline-block to show logo */
     /*display: none;*/
-    float: left;
     margin: 0px;
+  }
+
+  .headerbar .inner {
+    display: block;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   .site-description h1,
