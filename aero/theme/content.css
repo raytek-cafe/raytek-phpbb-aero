@@ -258,7 +258,7 @@ dd.option {
 	margin-bottom: 0.3em !important;
 	text-transform: none;
 	border: none;
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Ruberoid", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 	line-height: 125%;
 }
 
@@ -646,7 +646,7 @@ dl.thumbnail dt a:hover img {
 /* Post poll styles
 ----------------------------------------*/
 fieldset.polls {
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Ruberoid", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 }
 
 fieldset.polls dl {

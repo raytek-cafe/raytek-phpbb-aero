@@ -17,7 +17,7 @@ body {
 
 h1 {
 	/* Forum name */
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", "Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-right: 200px;
 	margin-top: 15px;
 	font-weight: bold;
@@ -26,7 +26,7 @@ h1 {
 
 h2 {
 	/* Forum header titles */
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-weight: normal;
 	font-size: 2em;
 	margin: 0.8em 0 0.2em 0;
@@ -50,7 +50,7 @@ h3 {
 
 h4 {
 	/* Forum and topic list titles */
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
+	font-family: "Ruberoid", "Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
 	font-size: 1.3em;
 }
 
@@ -1303,7 +1303,7 @@ ul.linklist:after,
 }
 
 .notification_list p.notifications_title {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 1.2em !important;
 }
 
