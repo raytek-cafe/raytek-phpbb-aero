@@ -134,6 +134,7 @@ ul.cplist {
 	background: #2F2F2F url("./images/cptabsbg.gif") repeat-x;
 	border-top: 1px solid #2d2d2d;
 	border-bottom: 1px solid #191919;
+	font-family: Ruberoid, Verdana, Helvetica, Arial, sans-serif;
 }
 
 .tabs .tab > a {
