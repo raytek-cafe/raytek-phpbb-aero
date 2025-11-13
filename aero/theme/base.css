@@ -16,81 +16,81 @@
 
 @font-face {
   font-family: Ruberoid;
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-Regular.ttf);
+  src: url(fonts/Ruberoid-Regular.ttf);
   font-weight: normal;
 }
 
 @font-face {
   font-family: Ruberoid;
   font-weight: bold;
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-Bold.ttf);
+  src: url(fonts/Ruberoid-Bold.ttf);
 }
 
 @font-face {
   font-family: Ruberoid;
   font-style: italic;
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-Oblique.ttf);
+  src: url(fonts/Ruberoid-Oblique.ttf);
 }
 
 @font-face {
   font-family: Ruberoid;
   font-weight: bold;
   font-style: italic;
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-BoldOblique.ttf);
+  src: url(fonts/Ruberoid-BoldOblique.ttf);
 }
 
 @font-face {
   font-family: "Ruberoid Light";
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-Light.ttf);
+  src: url(fonts/Ruberoid-Light.ttf);
 }
 
 @font-face {
   font-family: "Ruberoid Light";
   font-weight: bold;
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-Bold.ttf);
+  src: url(fonts/Ruberoid-Bold.ttf);
 }
 
 @font-face {
   font-family: Ruberoid;
   font-weight: 500;
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-SemiBold.ttf);
+  src: url(fonts/Ruberoid-SemiBold.ttf);
 }
 
 @font-face {
   font-family: Ruberoid;
   font-weight: 500;
   font-style: italic;
-  src: url(http://raytek.cafe/styles/fonts/Ruberoid-SemiBoldOblique.ttf);
+  src: url(fonts/Ruberoid-SemiBoldOblique.ttf);
 }
 
 @font-face {
   font-family: Roboto;
-  src: url(http://raytek.cafe/styles/fonts/Roboto-Regular.ttf);
+  src: url(fonts/Roboto-Regular.ttf);
   font-weight: normal;
 }
 
 @font-face {
   font-family: Roboto;
-  src: url(http://raytek.cafe/styles/fonts/Roboto-Bold.ttf);
+  src: url(fonts/Roboto-Bold.ttf);
   font-weight: bold;
 }
 
 @font-face {
   font-family: Roboto;
-  src: url(http://raytek.cafe/styles/fonts/Roboto-Italic.ttf);
+  src: url(fonts/Roboto-Italic.ttf);
   font-style: italic;
 }
 
 @font-face {
   font-family: Roboto;
-  src: url(http://raytek.cafe/styles/fonts/Roboto-BoldItalic.ttf);
+  src: url(fonts/Roboto-BoldItalic.ttf);
   font-weight: bold;
   font-style: italic;
 }
 
 /*@font-face {
   font-family: Verdana;
-  src: url(http://raytek.cafe/styles/fonts/verdana.ttf)
+  src: url(fonts/verdana.ttf)
 }*/
 
 /* Define your base font-size here; most elements will inherit this. _NO__DOTCOMMA__AFTER__*/
