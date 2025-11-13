@@ -1417,7 +1417,7 @@ details.spoiler[open]>.spoiler-header>.spoiler-status {
 }
 
 .spoilbtn {
-  font-family: Ruberoid, Ruberoid, 'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+  font-family: Ruberoid, 'Helvetica Neue',Helvetica,Arial,sans-serif !important;
   margin: 0px !important;
   font-size: 10px !important;
   color: #ededed !important;
