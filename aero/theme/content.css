@@ -724,10 +724,6 @@ fieldset.polls dd div {
 	font-size: 11px;
 }
 
-.postprofile .username-coloured, .postprofile .profile-rank {
-	font-family: Ruberoid, Verdana, Arial, Helvetica, sans-serif;
-}
-
 .postprofile dd, .postprofile dt {
 	line-height: 1.2em;
 	margin-left: 8px;
