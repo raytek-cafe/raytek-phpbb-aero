@@ -15,25 +15,25 @@
 }*/
 
 @font-face {
-  font-family: "Ruberoid";
+  font-family: Ruberoid;
   src: url(https://raytek.cafe/styles/fonts/Ruberoid-Regular.ttf);
   font-weight: normal;
 }
 
 @font-face {
-  font-family: "Ruberoid";
+  font-family: Ruberoid;
   font-weight: bold;
   src: url(https://raytek.cafe/styles/fonts/Ruberoid-Bold.ttf);
 }
 
 @font-face {
-  font-family: "Ruberoid";
+  font-family: Ruberoid;
   font-style: italic;
   src: url(https://raytek.cafe/styles/fonts/Ruberoid-Oblique.ttf);
 }
 
 @font-face {
-  font-family: "Ruberoid";
+  font-family: Ruberoid;
   font-weight: bold;
   font-style: italic;
   src: url(https://raytek.cafe/styles/fonts/Ruberoid-BoldOblique.ttf);
@@ -51,13 +51,13 @@
 }
 
 @font-face {
-  font-family: "Ruberoid";
+  font-family: Ruberoid;
   font-weight: 500;
   src: url(https://raytek.cafe/styles/fonts/Ruberoid-SemiBold.ttf);
 }
 
 @font-face {
-  font-family: "Ruberoid";
+  font-family: Ruberoid;
   font-weight: 500;
   font-style: italic;
   src: url(https://raytek.cafe/styles/fonts/Ruberoid-SemiBoldOblique.ttf);

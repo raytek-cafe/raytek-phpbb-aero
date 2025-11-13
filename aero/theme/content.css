@@ -258,7 +258,7 @@ dd.option {
 	margin-bottom: 0.3em !important;
 	text-transform: none;
 	border: none;
-	font-family: "Ruberoid", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: Ruberoid, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 	line-height: 125%;
 }
 
@@ -559,7 +559,7 @@ blockquote .codebox {
 }
 
 .attachbox dt {
-	font-family: "Ruberoid", Arial, Helvetica, sans-serif;
+	font-family: Ruberoid, Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 }
 
@@ -647,7 +647,7 @@ dl.thumbnail dt a:hover img {
 /* Post poll styles
 ----------------------------------------*/
 fieldset.polls {
-	font-family: "Ruberoid", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: Ruberoid, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 }
 
 fieldset.polls dl {
@@ -691,7 +691,7 @@ fieldset.polls dd input {
 
 fieldset.polls dd div {
 	text-align: right;
-	font-family: "Ruberoid", Arial, Helvetica, sans-serif;
+	font-family: Ruberoid, Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding: 2px 2px 0 2px;
 	overflow: visible;
@@ -722,6 +722,10 @@ fieldset.polls dd div {
 	display: inline;
 	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
+}
+
+.postprofile .username-coloured, .postprofile .profile-rank {
+	font-family: Ruberoid, Verdana, Arial, Helvetica, sans-serif;
 }
 
 .postprofile dd, .postprofile dt {

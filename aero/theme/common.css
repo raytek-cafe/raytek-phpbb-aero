@@ -6,7 +6,7 @@ html {
 }
 
 body {
-	font-family: "Ruberoid", Roboto, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
 	font-size: 10px;
 	line-height: normal;
 	margin: 0;
@@ -17,7 +17,7 @@ body {
 
 h1 {
 	/* Forum name */
-	font-family: "Ruberoid", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: Ruberoid, "Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-right: 200px;
 	margin-top: 15px;
 	font-weight: bold;
@@ -26,7 +26,7 @@ h1 {
 
 h2 {
 	/* Forum header titles */
-	font-family: "Ruberoid", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: Ruberoid, "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-weight: normal;
 	font-size: 2em;
 	margin: 0.8em 0 0.2em 0;
@@ -38,7 +38,7 @@ h2.solo {
 
 h3 {
 	/* Sub-headers (also used as post headers, but defined later) */
-	font-family: "Ruberoid", Arial, Helvetica, sans-serif;
+	font-family: Roboto, Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 	border-bottom: 1px solid transparent;
@@ -50,7 +50,7 @@ h3 {
 
 h4 {
 	/* Forum and topic list titles */
-	font-family: "Ruberoid", "Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
+	font-family: Ruberoid, "Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
 	font-size: 1.3em;
 }
 
@@ -898,7 +898,7 @@ fieldset.fields1 dl.pmlist dd.recipients {
 	display: inline-block;
 	font-size: 13px;
 	font-weight: normal;
-	font-family: "Ruberoid", "Open Sans", "Droid Sans", Verdana, Arial, Helvetica;
+	font-family: Ruberoid, "Open Sans", "Droid Sans", Verdana, Arial, Helvetica;
 	line-height: 1.4;
 	text-align: center;
 	white-space: nowrap;
@@ -1221,7 +1221,7 @@ ul.linklist:after,
 
 .dropdown-extended .header {
 	padding: 0 10px;
-	font-family: "Ruberoid", Arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Ruberoid, Arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	text-align: left;
 	text-transform: uppercase;
@@ -1303,7 +1303,7 @@ ul.linklist:after,
 }
 
 .notification_list p.notifications_title {
-	font-family: "Ruberoid", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: Ruberoid, "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 1.2em !important;
 }
 
