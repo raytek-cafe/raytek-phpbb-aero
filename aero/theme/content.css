@@ -108,7 +108,7 @@ li.header dt, li.header dd {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	font-size: 1em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 }
 
@@ -558,7 +558,7 @@ blockquote .codebox {
 }
 
 .attachbox dt {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 }
 
@@ -690,7 +690,7 @@ fieldset.polls dd input {
 
 fieldset.polls dd div {
 	text-align: right;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding: 2px 2px 0 2px;
 	overflow: visible;
