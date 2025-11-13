@@ -41,7 +41,7 @@ select optgroup option {
 }
 
 textarea {
-	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Ruberoid", "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
 	width: 60%;
 	padding: 2px;
 	font-size: 1em;
@@ -341,7 +341,7 @@ a.button1, input.button1, input.button3, a.button2, input.button2 {
 	padding-bottom: 1px;
 	padding-left: 5px;
 	padding-right: 5px;
-	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Ruberoid", "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
 	background: transparent none repeat-x top left;
 	line-height: 1.5;
 }
