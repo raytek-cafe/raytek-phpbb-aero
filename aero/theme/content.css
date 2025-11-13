@@ -409,7 +409,7 @@ dl.faq dt {
 p.author {
 	margin-bottom: 0.6em;
 	padding: 0 0 5px 0;
-	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Ruberoid", Verdana Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	line-height: 1.2em;
 	clear: both;
@@ -607,7 +607,7 @@ div.inline-attachment p {
 }
 
 dl.file {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", Verdana Arial, Helvetica, sans-serif;
 	display: block;
 }
 
@@ -616,7 +616,7 @@ dl.file dt {
 	margin: 0;
 	padding: 0;
 	font-weight: bold;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", Verdana Arial, Helvetica, sans-serif;
 }
 
 dl.file dd {
@@ -632,7 +632,7 @@ dl.thumbnail img {
 
 dl.thumbnail dd {
 	font-style: italic;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: "Ruberoid", Verdana Arial, Helvetica, sans-serif;
 }
 
 .attachbox dl.thumbnail dd {
