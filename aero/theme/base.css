@@ -64,25 +64,25 @@
 }
 
 @font-face {
-  font-family: "Roboto";
+  font-family: Roboto;
   src: url(http://raytek.cafe/styles/fonts/Roboto-Regular.ttf);
   font-weight: normal;
 }
 
 @font-face {
-  font-family: "Roboto";
+  font-family: Roboto;
   src: url(http://raytek.cafe/styles/fonts/Roboto-Bold.ttf);
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "Roboto";
+  font-family: Roboto;
   src: url(http://raytek.cafe/styles/fonts/Roboto-Italic.ttf);
   font-style: italic;
 }
 
 @font-face {
-  font-family: "Roboto";
+  font-family: Roboto;
   src: url(http://raytek.cafe/styles/fonts/Roboto-BoldItalic.ttf);
   font-weight: bold;
   font-style: italic;
