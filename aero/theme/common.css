@@ -210,7 +210,7 @@ a:hover	{ text-decoration: underline; }
 .navbar {
 	padding: 3px 10px;
 	background: url("./images/tabsbg.gif") repeat-x;
-	font-family: Ruberoid, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
 }
 
 .forabg, .forumbg {
