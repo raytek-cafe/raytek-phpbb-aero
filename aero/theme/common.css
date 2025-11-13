@@ -1413,6 +1413,7 @@ details.spoiler[open]>.spoiler-header>.spoiler-status {
 .spoilwrapper {
   background-color: #373737 !important;
   border-color: #656565 !important;
+  border-radius: 0px;
 }
 
 .spoilbtn {
