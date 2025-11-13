@@ -419,7 +419,7 @@ p.author {
 .signature {
 	margin-top: 1.5em;
 	padding-top: 0.2em;
-	font-size: 1.1em;
+	font-size: 1.2em;
 	border-top: 1px solid transparent;
 	clear: left;
 	line-height: 140%;
@@ -721,6 +721,7 @@ fieldset.polls dd div {
 	float: right;
 	display: inline;
 	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
 }
 
 .postprofile dd, .postprofile dt {
