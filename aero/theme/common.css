@@ -648,7 +648,7 @@ a.header-avatar span:after {
 	content: '\2039';
 	font-weight: bold;
 	padding: 0 0.5em;
-	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
 .breadcrumbs .crumb:first-child:before {
