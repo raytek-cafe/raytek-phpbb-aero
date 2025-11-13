@@ -559,7 +559,7 @@ blockquote .codebox {
 }
 
 .attachbox dt {
-	font-family: Ruberoid, Arial, Helvetica, sans-serif;
+	font-family: Roboto, Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 }
 
@@ -691,7 +691,7 @@ fieldset.polls dd input {
 
 fieldset.polls dd div {
 	text-align: right;
-	font-family: Ruberoid, Arial, Helvetica, sans-serif;
+	font-family: Roboto, Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding: 2px 2px 0 2px;
 	overflow: visible;
