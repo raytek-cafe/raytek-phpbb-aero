@@ -442,6 +442,7 @@ a.header-avatar span:after {
 	border-radius: 5px;
 	padding: 9px 0 0;
 	margin-right: -500px;
+	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
 }
 
 .dropdown.live-search {
@@ -1181,6 +1182,7 @@ ul.linklist:after,
 .dropdown-extended {
 	display: none;
 	z-index: 1;
+	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
 }
 
 .dropdown-extended ul {
