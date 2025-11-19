@@ -471,17 +471,17 @@ blockquote blockquote blockquote {
 }
 
 .attachbox p {
-	color: #666666;
+	color: #aeaeae;
 }
 
 .attachbox p.stats {
-	color: #666666;
+	color: #aeaeae;
 }
 
 /* Inline image thumbnails */
 
 dl.file dd {
-	color: #666666;
+	color: #aeaeae;
 }
 
 dl.thumbnail img {
