@@ -29,7 +29,7 @@ ul.topiclist dt, ul.topiclist dd {
 ul.topiclist dt {
 	width: 100%;
 	margin-right: -440px;
-	font-size: 1.1em;
+	font-size: 1em;
 }
 
 ul.topiclist.missing-column dt {
@@ -203,7 +203,7 @@ dl.row-item dt li {
 
 dd.lastpost, dd.redirect, dd.moderation, dd.time, dd.info {
 	width: 250px;
-	font-size: 1.1em;
+	font-size: 1em;
 }
 
 dd.redirect {
@@ -227,7 +227,7 @@ dd.option {
 	width: 125px;
 	line-height: 200%;
 	text-align: center;
-	font-size: 1.1em;
+	font-size: 1em;
 }
 
 /* Post body styles
@@ -241,7 +241,7 @@ dd.option {
 }
 
 .postbody .ignore {
-	font-size: 1.1em;
+	font-size: 1em;
 }
 
 .postbody h3.first {
@@ -378,7 +378,7 @@ dd.option {
 
 dl.faq {
 	font-family: Inter, Lucida Grande, Verdana, Helvetica, Arial, sans-serif;
-	font-size: 1.1em;
+	font-size: 1em;
 	margin-top: 1em;
 	margin-bottom: 2em;
 	line-height: 1.4em;
@@ -670,7 +670,7 @@ fieldset.polls dt {
 	border-right: none;
 	padding: 0;
 	margin: 0;
-	font-size: 1.1em;
+	font-size: 1em;
 }
 
 fieldset.polls dd {
@@ -679,7 +679,7 @@ fieldset.polls dd {
 	border-left: none;
 	padding: 0 5px;
 	margin-left: 0;
-	font-size: 1.1em;
+	font-size: 1em;
 }
 
 fieldset.polls dd.resultbar {
