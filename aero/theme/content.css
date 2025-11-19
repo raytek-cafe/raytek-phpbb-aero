@@ -536,7 +536,7 @@ blockquote .codebox {
 	overflow: auto;
 	display: block;
 	height: auto;
-	max-height: 200px;
+	max-height: 500px;
 	padding: 5px 3px;
 	font: 0.9em Consolas, Monaco, "Andale Mono", "Courier New", Courier, monospace;
 	line-height: 1.3em;
