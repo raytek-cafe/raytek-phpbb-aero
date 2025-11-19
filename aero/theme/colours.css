@@ -458,7 +458,7 @@ blockquote blockquote blockquote {
 /* Attachments
 ----------------------------------------*/
 .attachbox {
-	background-color: #2d2d2d;
+	background-color: #373737;
 	border-color:  #898989;
 }
 
@@ -687,7 +687,7 @@ Colours and backgrounds for buttons.css
 .pagination li.active span {
 	background: transparent;
 	border-color: transparent;
-	color: #333333;
+	color: #989898;
 }
 
 .pagination li a:hover, .pagination li a:hover .icon, .pagination .dropdown-visible a.dropdown-trigger, .nojs .pagination .dropdown-container:hover a.dropdown-trigger {
