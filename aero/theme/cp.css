@@ -22,12 +22,12 @@
 }
 
 .panel-container .panel p {
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 .panel-container .panel ol {
 	margin-left: 2em;
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 .panel-container .panel li.row {
@@ -76,7 +76,7 @@ ul.cplist {
 }
 
 .panel-container .postbody p.author {
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 .cp-main .buttons {
@@ -193,7 +193,7 @@ ul.cplist {
 .tabs .dropdown, .minitabs .dropdown {
 	top: 20px;
 	margin-right: -2px;
-	font-size: 1em;
+	font-size: 1.1em;
 	font-weight: normal;
 }
 
