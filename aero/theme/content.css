@@ -182,7 +182,7 @@ dd.posts, dd.topics, dd.views, dd.extra, dd.mark {
 	width: 80px;
 	text-align: center;
 	line-height: 2.2em;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 dd.posts, dd.topics, dd.views {
@@ -353,14 +353,14 @@ dd.option {
 }
 
 .panel p {
-	font-size: 1.2em;
+	font-size: 1.1em;
 	margin-bottom: 1em;
 	line-height: 1.4em;
 }
 
 .content p {
 	font-family: Inter, Lucida Grande, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
-	font-size: 1.2em;
+	font-size: 1.1em;
 	margin-bottom: 1em;
 	line-height: 1.4em;
 }
@@ -389,7 +389,7 @@ dl.faq dt {
 }
 
 .content dl.faq {
-	font-size: 1.2em;
+	font-size: 1.1em;
 	margin-bottom: 0.5em;
 }
 
@@ -419,7 +419,7 @@ p.author {
 .signature {
 	margin-top: 1.5em;
 	padding-top: 0.2em;
-	font-size: 1.2em;
+	font-size: 1.1em;
 	border-top: 1px solid transparent;
 	clear: left;
 	line-height: 140%;
@@ -706,7 +706,7 @@ fieldset.polls dd div {
 }
 
 .vote-submitted {
-	font-size: 1.2em;
+	font-size: 1.1em;
 	font-weight: bold;
 	text-align: center;
 }
