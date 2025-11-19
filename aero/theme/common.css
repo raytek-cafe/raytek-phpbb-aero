@@ -6,7 +6,7 @@ html {
 }
 
 body {
-	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Verdana, Helvetica, Arial, sans-serif;
 	font-size: 10px;
 	line-height: normal;
 	margin: 0;
@@ -38,7 +38,7 @@ h2.solo {
 
 h3 {
 	/* Sub-headers (also used as post headers, but defined later) */
-	font-family: Roboto, Arial, Helvetica, sans-serif;
+	font-family: Inter, Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 	border-bottom: 1px solid transparent;
@@ -442,7 +442,7 @@ a.header-avatar span:after {
 	border-radius: 5px;
 	padding: 9px 0 0;
 	margin-right: -500px;
-	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Verdana, Helvetica, Arial, sans-serif;
 }
 
 .dropdown.live-search {
@@ -901,7 +901,7 @@ fieldset.fields1 dl.pmlist dd.recipients {
 	display: inline-block;
 	font-size: 13px;
 	font-weight: normal;
-	font-family: Roboto, "Open Sans", "Droid Sans", Verdana, Arial, Helvetica;
+	font-family: Inter, "Open Sans", "Droid Sans", Verdana, Arial, Helvetica;
 	line-height: 1.4;
 	text-align: center;
 	white-space: nowrap;
@@ -1183,7 +1183,7 @@ ul.linklist:after,
 .dropdown-extended {
 	display: none;
 	z-index: 1;
-	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Verdana, Helvetica, Arial, sans-serif;
 }
 
 .dropdown-extended ul {

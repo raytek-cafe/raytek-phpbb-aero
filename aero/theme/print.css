@@ -50,7 +50,7 @@ h3 { font-size: 14pt; margin-top: 1em; }
 	font-size: 11pt;
 	line-height: 14pt;
 	margin-bottom: 1em;
-	font-family: Roboto, Lucida Grande, "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-family: Inter, Lucida Grande, "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
 	overflow: hidden;
 }
 
@@ -77,13 +77,13 @@ hr {
 }
 
 .author {
-	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+	font-family: Inter, Verdana, Arial, Helvetica, sans-serif;
 	font-size: 75%;
 	margin-bottom: 0.6em;
 }
 
 .date {
-	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+	font-family: Inter, Verdana, Arial, Helvetica, sans-serif;
 	float: right;
 	position: relative;
 	text-align: right;

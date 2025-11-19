@@ -108,7 +108,7 @@ li.header dt, li.header dd {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	font-size: 1em;
-	font-family: Roboto, Arial, Helvetica, sans-serif;
+	font-family: Inter, Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 }
 
@@ -334,7 +334,7 @@ dd.option {
 	min-height: 3em;
 	overflow: hidden;
 	line-height: 1.4em;
-	font-family: Roboto, Lucida Grande, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Lucida Grande, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	padding-bottom: 1px;
 }
@@ -359,7 +359,7 @@ dd.option {
 }
 
 .content p {
-	font-family: Roboto, Lucida Grande, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Lucida Grande, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
 	margin-bottom: 1em;
 	line-height: 1.4em;
@@ -377,7 +377,7 @@ dd.option {
 }
 
 dl.faq {
-	font-family: Roboto, Lucida Grande, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Lucida Grande, Verdana, Helvetica, Arial, sans-serif;
 	font-size: 1.1em;
 	margin-top: 1em;
 	margin-bottom: 2em;
@@ -409,7 +409,7 @@ dl.faq dt {
 p.author {
 	margin-bottom: 0.6em;
 	padding: 0 0 5px 0;
-	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Verdana, Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	line-height: 1.2em;
 	clear: both;
@@ -425,7 +425,7 @@ p.author {
 	line-height: 140%;
 	overflow: hidden;
 	width: 100%;
-	font-family: Roboto, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Verdana, Helvetica, Arial, sans-serif;
 }
 
 .signature.standalone {
@@ -450,7 +450,7 @@ dd .signature {
 
 /* Post noticies */
 .notice {
-	font-family: Roboto, Lucida Grande, Verdana, Helvetica, Arial, sans-serif;
+	font-family: Inter, Lucida Grande, Verdana, Helvetica, Arial, sans-serif;
 	width: auto;
 	margin-top: 1.5em;
 	padding-top: 0.2em;
@@ -559,7 +559,7 @@ blockquote .codebox {
 }
 
 .attachbox dt {
-	font-family: Ruberoid, Roboto, Arial, Helvetica, sans-serif;
+	font-family: Ruberoid, Inter, Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	font-weight: bold;
 }
@@ -609,7 +609,7 @@ div.inline-attachment p {
 }
 
 dl.file {
-	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+	font-family: Inter, Verdana, Arial, Helvetica, sans-serif;
 	display: block;
 }
 
@@ -618,7 +618,7 @@ dl.file dt {
 	margin: 0;
 	padding: 0;
 	font-weight: bold;
-	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+	font-family: Inter, Verdana, Arial, Helvetica, sans-serif;
 }
 
 dl.file dd {
@@ -634,7 +634,7 @@ dl.thumbnail img {
 
 dl.thumbnail dd {
 	font-style: italic;
-	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+	font-family: Inter, Verdana, Arial, Helvetica, sans-serif;
 }
 
 .attachbox dl.thumbnail dd {
@@ -692,7 +692,7 @@ fieldset.polls dd input {
 
 fieldset.polls dd div {
 	text-align: right;
-	font-family: Roboto, Arial, Helvetica, sans-serif;
+	font-family: Inter, Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	padding: 2px 2px 0 2px;
 	overflow: visible;
@@ -721,7 +721,7 @@ fieldset.polls dd div {
 	width: 22%;
 	float: right;
 	display: inline;
-	font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;
+	font-family: Inter, Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
 }
 
