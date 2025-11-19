@@ -273,7 +273,7 @@ dd.option {
 }
 
 .postbody .content {
-	font-size: 1.2em;
+	font-size: 1.3em;
 	overflow-x: auto;
 }
 
@@ -879,7 +879,7 @@ table.fixed-width-table {
 /* Memberlist
 ----------------------------------------*/
 .group-description {
-	font-size: 1.2em;
+	font-size: 1.3em;
 }
 
 .group-description ol, .group-description ul {
