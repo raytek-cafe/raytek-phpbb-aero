@@ -433,12 +433,12 @@ blockquote {
 
 blockquote blockquote {
 	/* Nested quotes */
-	background-color: #EFEED9;
+	background-color: #2F2F2F;
 }
 
 blockquote blockquote blockquote {
 	/* Nested quotes */
-	background-color: #EBEADD;
+	background-color: #2F2F2F;
 }
 
 /* Code block */
