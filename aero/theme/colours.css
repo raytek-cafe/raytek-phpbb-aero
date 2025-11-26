@@ -426,6 +426,7 @@ dl.faq dt {
 /* BB Code styles
 ----------------------------------------*/
 /* Quote block */
+/* Quote block */
 blockquote {
 	background-color: #373737;
 	border-color: #535353;
@@ -434,11 +435,13 @@ blockquote {
 blockquote blockquote {
 	/* Nested quotes */
 	background-color: #484848;
+	border-color: #6d6d6d;
 }
 
 blockquote blockquote blockquote {
 	/* Nested quotes */
-	background-color: #373737;
+	background-color: #585858;
+	border-color: #767676;
 }
 
 /* Code block */
