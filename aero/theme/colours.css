@@ -440,8 +440,8 @@ blockquote blockquote {
 
 blockquote blockquote blockquote {
 	/* Nested quotes */
-	background-color: #585858;
-	border-color: #767676;
+	background-color: #373737;
+	border-color: #6b6b6b;
 }
 
 /* Code block */
