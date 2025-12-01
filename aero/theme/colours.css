@@ -500,7 +500,7 @@ dl.thumbnail dt a:hover {
 }
 
 dl.thumbnail dt a:hover img {
-	border-color: #368AD2;
+	border-color: #aaaaaa;
 }
 
 /* Post poll styles
