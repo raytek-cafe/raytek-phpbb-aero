@@ -1276,14 +1276,14 @@ ul.linklist:after,
 }
 
 .spoilwrapper {
-  background-color: #373737 !important;
+  background-color: #282828 !important;
   border-color: #535353 !important;
   border-radius: 0px !important;
   margin: 0px !important;
 }
 
 .spoilbtn {
-  font-family: Ruberoid, 'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+  font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif !important;
   margin: 0px !important;
   font-size: 10px !important;
   color: #ededed !important;
