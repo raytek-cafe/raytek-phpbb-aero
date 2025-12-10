@@ -1277,7 +1277,7 @@ ul.linklist:after,
 
 .spoilwrapper {
   background-color: #282828 !important;
-  border-color: #535353 !important;
+  border-color: #000000 !important;
   border-radius: 0px !important;
   margin: 0px !important;
 }
@@ -1294,6 +1294,6 @@ ul.linklist:after,
 }
 
 .spoilcontent {
-  color: #ededed !important;
-  border-top-color: #656565 !important;
+  color: #ffffff !important;
+  border-top-color: #707070 !important;
 }
