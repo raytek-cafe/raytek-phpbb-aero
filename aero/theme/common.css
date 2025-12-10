@@ -1447,12 +1447,12 @@ details.spoiler[open]>.spoiler-header>.spoiler-status {
 }
 
 .abbc3_button:hover {
-	background-color: #818181;
-	border: 1px solid #a4a4a4;
+	background-color: #818181 !important;
+	border: 1px solid #a4a4a4 !important;
 }
 
 #abbc3_buttons select {
-	background-color: #454545;
-	border: 1px solid #626262;
-	color: #fff;
+	background-color: #454545 !important;
+	border: 1px solid #626262 !important;
+	color: #fff !important;
 }
