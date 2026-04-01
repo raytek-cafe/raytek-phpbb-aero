@@ -1464,3 +1464,12 @@ details.spoiler[open]>.spoiler-header>.spoiler-status {
 .mchat-input-control button:hover .icon {
 	color: #EAEAEA !important;
 }
+
+#rtng-box .bg1 {
+    background-color: transparent !important;
+}
+
+
+#rtng-box .bg2 {
+	background-color: transparent !important;
+}
