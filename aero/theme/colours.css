@@ -613,6 +613,10 @@ Colours and backgrounds for buttons.css
 	color: #8f8f8f;
 }
 
+.button-icon-only {
+	color: #ededed;
+}
+
 .button-secondary:focus,
 .button-secondary:hover,
 .button:focus .icon,
@@ -683,7 +687,7 @@ Colours and backgrounds for buttons.css
 
 .pagination li.ellipsis span {
 	background: transparent;
-	color: #000000;
+	color: #989898;
 }
 
 .pagination li.active span {
