@@ -1460,3 +1460,7 @@ details.spoiler[open]>.spoiler-header>.spoiler-status {
 #mchat-body .cp-mini {
 	background-color: #2d2d2d !important;
 }
+
+.mchat-input-control button:hover .icon {
+	color: #EAEAEA;
+}
