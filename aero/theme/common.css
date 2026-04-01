@@ -1456,3 +1456,7 @@ details.spoiler[open]>.spoiler-header>.spoiler-status {
 	border: 1px solid #626262 !important;
 	color: #fff !important;
 }
+
+#mchat-body .cp-mini {
+	background-color: #2d2d2d !important;
+}
